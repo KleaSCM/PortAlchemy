@@ -1,7 +1,0 @@
-Host: 127.0.0.1 ()
-State: up
-Protocol: tcp
-Port: 135	State: open	Service: msrpc
-Port: 137	State: filtered	Service: netbios-ns
-Port: 445	State: open	Service: microsoft-ds
-

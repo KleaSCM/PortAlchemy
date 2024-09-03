@@ -5,7 +5,7 @@
 
 
 #import statements
-import nma
+import nmap
 import os
 
 def scan_ports(target):
