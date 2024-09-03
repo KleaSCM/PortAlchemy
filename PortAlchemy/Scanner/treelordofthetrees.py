@@ -13,7 +13,7 @@ def scan_ports(target):
     nm.scan(target, '1-1024')  # Scans ports 1-1024 by default
     
     # Ensure logs directory exists
-    logs_dir = r'C:\Users\Kliea\Documents\temp\qwas\logs'
+    logs_dir = r'C:\Users\Kliea\Documents\Development\Python\CybrSuit\PortAlchemy\PortAlchemy\logs'
     if not os.path.exists(logs_dir):
         os.makedirs(logs_dir)
     
