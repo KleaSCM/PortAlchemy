@@ -1,0 +1,6 @@
+Host: 45.33.32.156 (scanme.nmap.org)
+State: up
+Protocol: tcp
+Port: 22	State: open	Service: ssh
+Port: 80	State: filtered	Service: http
+
